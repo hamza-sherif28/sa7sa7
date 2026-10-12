@@ -65,7 +65,3 @@ Constants at the top of the sketch control the behavior:
 ## Photos / wiring diagram
 
 _Add pictures of the build here._
-
-## License
-
-Add a license of your choice (MIT is a common default for hobby projects).
